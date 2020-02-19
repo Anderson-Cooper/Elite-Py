@@ -1,0 +1,27 @@
+import time
+import random as r
+print("FSD Charging...")
+time.sleep(4)
+print("4")
+time.sleep(1)
+print("3")
+time.sleep(1)
+print("2")
+time.sleep(1)
+print("1")
+time.sleep(1)
+print("Engage!")
+print("POWWWOWOWWOWOWOOWWO")
+time.sleep(2)
+print("//")
+print("//")
+print("Encounter check...")
+a=r.randint(1,10)
+if a ==4: from interdiction import cmdr
+print('Safe')
+print("{{}}")
+print("A, View BRODCAST")
+print("B, Go to PLANET")
+print("C, Change systems")
+a=input()
+if a==("A"):

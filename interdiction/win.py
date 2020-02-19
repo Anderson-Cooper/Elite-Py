@@ -1,0 +1,1 @@
+print("You DEMOLISHED your enemy, you used his ship parts to repair your ship, And you have his court hearing soon so you will be taken to A-96-A")
